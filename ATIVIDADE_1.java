@@ -34,10 +34,10 @@ class AT2 {
 
 ATIVIDADE 3
 
-String nomeDoAluno = "Vinicius"; 
-  int idadeDoAluno = 20; 
-  double notaDaProva1 = 9.5; 
-  double notaDaProva2 = 4.0; 
+String nomeDoAluno = "Gustavo"; 
+  int idadeDoAluno = 19; 
+  double notaDaProva1 = 8.5; 
+  double notaDaProva2 = 5.0; 
   double mediaFinal = 6.75;
 
 ATIVIDADE 4
